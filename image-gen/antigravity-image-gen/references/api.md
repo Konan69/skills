@@ -8,8 +8,8 @@
 
 **Body (application/x-www-form-urlencoded):**
 ```
-client_id=REDACTED_CLIENT_ID
-&client_secret=REDACTED_CLIENT_SECRET
+client_id={ANTIGRAVITY_CLIENT_ID}
+&client_secret={ANTIGRAVITY_CLIENT_SECRET}
 &refresh_token={refresh_token}
 &grant_type=refresh_token
 ```

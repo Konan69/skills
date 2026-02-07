@@ -27,10 +27,8 @@ DEFAULT_ACCOUNTS_FILE = os.path.expanduser(
     "~/.config/opencode/antigravity-accounts.json"
 )
 
-ANTIGRAVITY_CLIENT_ID = (
-    "REDACTED_CLIENT_ID"
-)
-ANTIGRAVITY_CLIENT_SECRET = "REDACTED_CLIENT_SECRET"
+ANTIGRAVITY_CLIENT_ID = os.environ.get("ANTIGRAVITY_CLIENT_ID", "")
+ANTIGRAVITY_CLIENT_SECRET = os.environ.get("ANTIGRAVITY_CLIENT_SECRET", "")
 
 
 def setup_credentials():
