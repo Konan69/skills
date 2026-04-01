@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "skills": {
+    "writing-skills": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/writing-skills/SKILL.md",
+      "skillFolderHash": "657cdd6aef472054ffd3f0e7798494d79be9f807",
+      "installedAt": "2026-03-24T13:27:50.274Z",
+      "updatedAt": "2026-03-25T10:08:50.227Z"
+    },
+    "technical-blog-writing": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/inferen-sh/skills.git",
+      "skillPath": "guides/writing/technical-blog-writing/SKILL.md",
+      "skillFolderHash": "702ff0637892a4cea844402fb70a287a0c411741",
+      "installedAt": "2026-03-24T13:27:52.202Z",
+      "updatedAt": "2026-03-24T13:27:52.202Z"
+    },
+    "copywriting": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/copywriting/SKILL.md",
+      "skillFolderHash": "4ac08d315b36a42902eb015f913743a241986011",
+      "pluginName": "marketing-skills",
+      "installedAt": "2026-03-24T13:27:52.645Z",
+      "updatedAt": "2026-03-24T13:27:52.645Z"
+    },
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
+      "skillPath": "skills/agent-browser/SKILL.md",
+      "skillFolderHash": "5ddaf3ef36bf4f20687aaf726976e41b23b07fdf",
+      "pluginName": "agent-browser",
+      "installedAt": "2026-03-25T10:03:22.398Z",
+      "updatedAt": "2026-03-25T10:03:22.398Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "installedAt": "2026-03-25T10:03:26.696Z",
+      "updatedAt": "2026-04-01T15:37:33.906Z"
+    },
+    "browser-use": {
+      "source": "browser-use/browser-use",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/browser-use/browser-use.git",
+      "skillPath": "skills/browser-use/SKILL.md",
+      "skillFolderHash": "9e127714fb8d78638ab42b5b121c8584b59f68bf",
+      "installedAt": "2026-03-25T10:04:37.331Z",
+      "updatedAt": "2026-03-25T10:04:37.331Z"
+    },
+    "react-useeffect": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/softaworks/agent-toolkit.git",
+      "skillPath": "skills/react-useeffect/SKILL.md",
+      "skillFolderHash": "b16fcda0660491a139a2537c6fa46433eecf640f",
+      "installedAt": "2026-03-25T10:04:46.182Z",
+      "updatedAt": "2026-03-25T10:04:46.182Z"
+    },
+    "humanizer": {
+      "source": "blader/humanizer",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/blader/humanizer.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "12881abf6671c4ab62eceeb56f911b752f9fd6d2",
+      "installedAt": "2026-03-25T10:06:33.879Z",
+      "updatedAt": "2026-03-25T10:06:33.879Z"
+    },
+    "planning-with-files": {
+      "source": "othmanadi/planning-with-files",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/othmanadi/planning-with-files.git",
+      "skillPath": "skills/planning-with-files/SKILL.md",
+      "skillFolderHash": "8b59ccb8c1345f748ea71fe5e23a1a0828036752",
+      "installedAt": "2026-03-25T10:11:06.459Z",
+      "updatedAt": "2026-03-25T10:11:06.459Z"
+    },
+    "ai-sdk": {
+      "source": "vercel/ai",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel/ai.git",
+      "skillPath": "skills/use-ai-sdk/SKILL.md",
+      "skillFolderHash": "d8e09e2796e2a04a9c7f7cc8c5bbab8da76a77d9",
+      "installedAt": "2026-03-25T12:43:26.577Z",
+      "updatedAt": "2026-03-25T12:43:26.577Z"
+    },
+    "technical-writing": {
+      "source": "o0o0o0admin/SKILLS-REPO_supercent-io-skills-template",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/o0o0o0admin/SKILLS-REPO_supercent-io-skills-template.git",
+      "skillPath": ".agent-skills/technical-writing/SKILL.md",
+      "skillFolderHash": "4cc10c0d753ce9affd46211efb4b5d80146a5917",
+      "installedAt": "2026-03-27T14:12:43.822Z",
+      "updatedAt": "2026-03-27T14:12:43.822Z"
+    },
+    "arrange": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/arrange/SKILL.md",
+      "skillFolderHash": "2bc9212d2a2b2de235dcebd555e812b7996a447a",
+      "installedAt": "2026-04-01T16:01:28.376Z",
+      "updatedAt": "2026-04-01T16:01:28.376Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "firebender",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "warp",
+    "claude-code"
+  ]
+}
