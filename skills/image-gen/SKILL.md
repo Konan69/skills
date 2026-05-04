@@ -1,5 +1,5 @@
 ---
-name: antigravity-image-gen
+name: image-gen
 description: Generate images via OpenAI GPT Image 2 (default) or Gemini 3 Pro Image (Nano Banana Pro). Use when the user asks to create, generate, or make an image. Switchable provider so outputs can be A/B'd. Read references/prompting.md and references/styles.md before writing the prompt.
 ---
 
